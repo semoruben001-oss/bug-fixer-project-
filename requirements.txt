@@ -1,0 +1,3 @@
+- flask
+- paypal-rest-sdk
+- python-dotenv 
